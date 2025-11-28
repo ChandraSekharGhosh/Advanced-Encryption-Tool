@@ -78,8 +78,11 @@ pip install -r requirements.txt
 ### Step 3: Download SecureCrypt
 **Option A: Clone Repository**
 ```bash
-git clone https://github.com/yourusername/securecrypt.git
-cd securecrypt
+git clone https://github.com/ChandraSekharGhosh/advanced-encryption-tool.git
+
+git@github.com:ChandraSekharGhosh/advanced-encryption-tool.git
+
+gh repo clone ChandraSekharGhosh/advanced-encryption-tool
 ```
 
 **Option B: Download ZIP**
